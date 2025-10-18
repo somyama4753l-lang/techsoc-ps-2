@@ -1,13 +1,4 @@
 #include <iostream>
-#include "mylib.h"
-
-int main() {
-    std::cout << "2 + 3 = " << add(2, 3) << std::endl;
-    return 0;
-}
-//
-// Created by HP on 07-10-2025.
-//#include <iostream>
 #include<vector>
 #include<ctime>
 class pokemon {
